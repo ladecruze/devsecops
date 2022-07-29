@@ -1,4 +1,4 @@
-# Devsecops
+# DevSecOps
 
 ## Software Composition Analysis (SCA)
 
